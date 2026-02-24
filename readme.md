@@ -104,14 +104,14 @@ Overall Accuracy (%) = (Hits + Correct Negatives) / Total Pairs × 100
 
 **6 Stations Analyzed (24h First Lead Time):**
 
-| Station | Accuracy | Pairs | Obs Rain Events | Meaningful? |
-|---------|----------|-------|-----------------|-------------|
-| Bendung Cibalok | 71.36% | 660 | 66 (10.0%) | ✓ Yes |
-| Hidrologi-PCH Karanganyar | 80.43% | 690 | 59 (8.5%) | ✓ Yes |
-| Saipem | 92.97% | 711 | 0 (0%) | ✗ Dry |
-| Intiland Regatta | 79.61% | 711 | 0 (0%) | ✗ Dry |
-| AWLR-Hulu (HK) | 74.26% | 711 | 0 (0%) | ✗ Dry |
-| ARR-Bendung Jragung | 78.48% | 711 | 0 (0%) | ✗ Dry |
+| Station | Accuracy | Pairs | Obs Rain Events |
+|---------|----------|-------|-----------------|
+| Bendung Cibalok | 71.36% | 660 | 66 (10.0%) | 
+| Hidrologi-PCH Karanganyar | 80.43% | 690 | 59 (8.5%) | 
+| Saipem | 92.97% | 711 | 0 (0%) |
+| Intiland Regatta | 79.61% | 711 | 0 (0%) | 
+| AWLR-Hulu (HK) | 74.26% | 711 | 0 (0%) | 
+| ARR-Bendung Jragung | 78.48% | 711 | 0 (0%) | 
 
 **Output locations:**
 - Per-issued accuracy: `station/<name>/analysis_binary_24h/1_accuracy_per_issued.csv`
