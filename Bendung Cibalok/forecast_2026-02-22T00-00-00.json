@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "issued_time": "2026-02-22T00:00:00",
+    "location": {
+      "target_lat": -6.6533873,
+      "target_lon": 106.8695836,
+      "actual_lat": -6.6523,
+      "actual_lon": 106.862428,
+      "distance_km": 0.8
+    },
+    "statistics": {
+      "accumulated_precipitation": {
+        "min_mm": 0.0,
+        "max_mm": 29.1,
+        "final_mm": 29.1,
+        "mean_mm": 15.5,
+        "median_mm": 18.8,
+        "std_mm": 8.54
+      },
+      "hourly_precipitation": {
+        "min_mm_per_hour": 0.0,
+        "max_mm_per_hour": 4.3,
+        "mean_mm_per_hour": 0.21,
+        "median_mm_per_hour": 0.0,
+        "std_mm_per_hour": 0.72,
+        "hours_with_rain": 29,
+        "hours_without_rain": 110,
+        "rain_percentage": 20.9
+      },
+      "forecast_period": {
+        "total_hours": 139,
+        "total_days": 5.8,
+        "start_time": "2026-02-22 00:00:00",
+        "end_time": "2026-02-27 18:00:00"
+      }
+    },
+    "units": "kg/m² (equivalent to mm)"
+  },
+  "data": [
+    {
+      "time": "2026-02-22T00:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T01:00:00Z",
+      "precipitation_1h": 0.02
+    },
+    {
+      "time": "2026-02-22T02:00:00Z",
+      "precipitation_1h": 0.01
+    },
+    {
+      "time": "2026-02-22T03:00:00Z",
+      "precipitation_1h": 0.12
+    },
+    {
+      "time": "2026-02-22T04:00:00Z",
+      "precipitation_1h": 0.02
+    },
+    {
+      "time": "2026-02-22T05:00:00Z",
+      "precipitation_1h": 0.13
+    },
+    {
+      "time": "2026-02-22T06:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T07:00:00Z",
+      "precipitation_1h": 0.3
+    },
+    {
+      "time": "2026-02-22T08:00:00Z",
+      "precipitation_1h": 2.0
+    },
+    {
+      "time": "2026-02-22T09:00:00Z",
+      "precipitation_1h": 1.8
+    },
+    {
+      "time": "2026-02-22T10:00:00Z",
+      "precipitation_1h": 2.0
+    },
+    {
+      "time": "2026-02-22T11:00:00Z",
+      "precipitation_1h": 0.5
+    },
+    {
+      "time": "2026-02-22T12:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T13:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T14:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T15:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-22T16:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T17:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T18:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T19:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T20:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T21:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T22:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T23:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T00:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T01:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T02:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T03:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T04:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T05:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T06:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T07:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T08:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T09:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T10:00:00Z",
+      "precipitation_1h": 0.0
+    }
+  ],
+  "point": {
+    "label": "(-6.6533873, 106.8695836)",
+    "target_lat": -6.6533873,
+    "target_lon": 106.8695836
+  },
+  "user": {
+    "username": "aku gay",
+    "name": "yang pake akun ini pasti gay"
+  }
+}

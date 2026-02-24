@@ -1,0 +1,574 @@
+{
+  "metadata": {
+    "issued_time": "2026-02-18T00:00:00",
+    "location": {
+      "target_lat": -6.6533873,
+      "target_lon": 106.8695836,
+      "actual_lat": -6.6523,
+      "actual_lon": 106.862428,
+      "distance_km": 0.8
+    },
+    "statistics": {
+      "accumulated_precipitation": {
+        "min_mm": 0.0,
+        "max_mm": 212.8,
+        "final_mm": 212.8,
+        "mean_mm": 133.12,
+        "median_mm": 149.2,
+        "std_mm": 74.52
+      },
+      "hourly_precipitation": {
+        "min_mm_per_hour": 0.0,
+        "max_mm_per_hour": 27.4,
+        "mean_mm_per_hour": 1.53,
+        "median_mm_per_hour": 0.0,
+        "std_mm_per_hour": 3.86,
+        "hours_with_rain": 66,
+        "hours_without_rain": 73,
+        "rain_percentage": 47.5
+      },
+      "forecast_period": {
+        "total_hours": 139,
+        "total_days": 5.8,
+        "start_time": "2026-02-18 00:00:00",
+        "end_time": "2026-02-23 18:00:00"
+      }
+    },
+    "units": "kg/m² (equivalent to mm)"
+  },
+  "data": [
+    {
+      "time": "2026-02-18T00:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T01:00:00Z",
+      "precipitation_1h": 0.19
+    },
+    {
+      "time": "2026-02-18T02:00:00Z",
+      "precipitation_1h": 0.01
+    },
+    {
+      "time": "2026-02-18T03:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-18T04:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-18T05:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-18T06:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-18T07:00:00Z",
+      "precipitation_1h": 7.6
+    },
+    {
+      "time": "2026-02-18T08:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-18T09:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T10:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T11:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T12:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T13:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T14:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T15:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T16:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-18T17:00:00Z",
+      "precipitation_1h": 5.9
+    },
+    {
+      "time": "2026-02-18T18:00:00Z",
+      "precipitation_1h": 3.1
+    },
+    {
+      "time": "2026-02-18T19:00:00Z",
+      "precipitation_1h": 0.2
+    },
+    {
+      "time": "2026-02-18T20:00:00Z",
+      "precipitation_1h": 0.3
+    },
+    {
+      "time": "2026-02-18T21:00:00Z",
+      "precipitation_1h": 1.1
+    },
+    {
+      "time": "2026-02-18T22:00:00Z",
+      "precipitation_1h": 1.2
+    },
+    {
+      "time": "2026-02-18T23:00:00Z",
+      "precipitation_1h": 1.3
+    },
+    {
+      "time": "2026-02-19T00:00:00Z",
+      "precipitation_1h": 1.4
+    },
+    {
+      "time": "2026-02-19T01:00:00Z",
+      "precipitation_1h": 2.7
+    },
+    {
+      "time": "2026-02-19T02:00:00Z",
+      "precipitation_1h": 0.4
+    },
+    {
+      "time": "2026-02-19T03:00:00Z",
+      "precipitation_1h": 6.8
+    },
+    {
+      "time": "2026-02-19T04:00:00Z",
+      "precipitation_1h": 1.8
+    },
+    {
+      "time": "2026-02-19T05:00:00Z",
+      "precipitation_1h": 27.4
+    },
+    {
+      "time": "2026-02-19T06:00:00Z",
+      "precipitation_1h": 5.4
+    },
+    {
+      "time": "2026-02-19T07:00:00Z",
+      "precipitation_1h": 5.8
+    },
+    {
+      "time": "2026-02-19T08:00:00Z",
+      "precipitation_1h": 4.0
+    },
+    {
+      "time": "2026-02-19T09:00:00Z",
+      "precipitation_1h": 0.4
+    },
+    {
+      "time": "2026-02-19T10:00:00Z",
+      "precipitation_1h": 10.9
+    },
+    {
+      "time": "2026-02-19T11:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-19T12:00:00Z",
+      "precipitation_1h": 2.2
+    },
+    {
+      "time": "2026-02-19T13:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T14:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T15:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T16:00:00Z",
+      "precipitation_1h": 1.1
+    },
+    {
+      "time": "2026-02-19T17:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T18:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T19:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T20:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-19T21:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-19T22:00:00Z",
+      "precipitation_1h": 2.4
+    },
+    {
+      "time": "2026-02-19T23:00:00Z",
+      "precipitation_1h": 6.7
+    },
+    {
+      "time": "2026-02-20T00:00:00Z",
+      "precipitation_1h": 0.8
+    },
+    {
+      "time": "2026-02-20T01:00:00Z",
+      "precipitation_1h": 2.6
+    },
+    {
+      "time": "2026-02-20T02:00:00Z",
+      "precipitation_1h": 2.5
+    },
+    {
+      "time": "2026-02-20T03:00:00Z",
+      "precipitation_1h": 2.1
+    },
+    {
+      "time": "2026-02-20T04:00:00Z",
+      "precipitation_1h": 1.2
+    },
+    {
+      "time": "2026-02-20T05:00:00Z",
+      "precipitation_1h": 13.9
+    },
+    {
+      "time": "2026-02-20T06:00:00Z",
+      "precipitation_1h": 11.9
+    },
+    {
+      "time": "2026-02-20T07:00:00Z",
+      "precipitation_1h": 8.4
+    },
+    {
+      "time": "2026-02-20T08:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T09:00:00Z",
+      "precipitation_1h": 0.5
+    },
+    {
+      "time": "2026-02-20T10:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T11:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T12:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T13:00:00Z",
+      "precipitation_1h": 1.7
+    },
+    {
+      "time": "2026-02-20T14:00:00Z",
+      "precipitation_1h": 0.6
+    },
+    {
+      "time": "2026-02-20T15:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T16:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T17:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T18:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T19:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-20T20:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-20T21:00:00Z",
+      "precipitation_1h": 1.9
+    },
+    {
+      "time": "2026-02-20T22:00:00Z",
+      "precipitation_1h": 3.3
+    },
+    {
+      "time": "2026-02-20T23:00:00Z",
+      "precipitation_1h": 7.1
+    },
+    {
+      "time": "2026-02-21T00:00:00Z",
+      "precipitation_1h": 1.8
+    },
+    {
+      "time": "2026-02-21T01:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T02:00:00Z",
+      "precipitation_1h": 1.3
+    },
+    {
+      "time": "2026-02-21T03:00:00Z",
+      "precipitation_1h": 0.5
+    },
+    {
+      "time": "2026-02-21T04:00:00Z",
+      "precipitation_1h": 1.0
+    },
+    {
+      "time": "2026-02-21T05:00:00Z",
+      "precipitation_1h": 17.6
+    },
+    {
+      "time": "2026-02-21T06:00:00Z",
+      "precipitation_1h": 3.2
+    },
+    {
+      "time": "2026-02-21T07:00:00Z",
+      "precipitation_1h": 0.4
+    },
+    {
+      "time": "2026-02-21T08:00:00Z",
+      "precipitation_1h": 0.2
+    },
+    {
+      "time": "2026-02-21T09:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T10:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T11:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T12:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T13:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T14:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T15:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T16:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T17:00:00Z",
+      "precipitation_1h": 2.4
+    },
+    {
+      "time": "2026-02-21T18:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-21T19:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T20:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T21:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T22:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-21T23:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T00:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T01:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T02:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T03:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T04:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T05:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T06:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T07:00:00Z",
+      "precipitation_1h": 19.2
+    },
+    {
+      "time": "2026-02-22T08:00:00Z",
+      "precipitation_1h": 0.6
+    },
+    {
+      "time": "2026-02-22T09:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-22T10:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T11:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T12:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T13:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T14:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T15:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T16:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T17:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T18:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T19:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T20:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T21:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T22:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-22T23:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T00:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T01:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T02:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T03:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T04:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T05:00:00Z",
+      "precipitation_1h": 0.0
+    },
+    {
+      "time": "2026-02-23T06:00:00Z",
+      "precipitation_1h": 0.1
+    },
+    {
+      "time": "2026-02-23T07:00:00Z",
+      "precipitation_1h": 0.4
+    },
+    {
+      "time": "2026-02-23T08:00:00Z",
+      "precipitation_1h": 3.4
+    },
+    {
+      "time": "2026-02-23T09:00:00Z",
+      "precipitation_1h": 0.6
+    },
+    {
+      "time": "2026-02-23T10:00:00Z",
+      "precipitation_1h": 0.1
+    }
+  ],
+  "point": {
+    "label": "(-6.6533873, 106.8695836)",
+    "target_lat": -6.6533873,
+    "target_lon": 106.8695836
+  },
+  "user": {
+    "username": "aku gay",
+    "name": "yang pake akun ini pasti gay"
+  }
+}

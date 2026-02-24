@@ -1,0 +1,14 @@
+metric,value
+max_lead_hours,24
+total_pairs,660
+overall_accuracy_pct,71.36
+detection_rate_pod_pct,62.12
+false_alarm_rate_far_pct,80.0
+critical_success_index_csi_pct,17.83
+bias_score,3.11
+mae_mm_per_hour,1.3898
+rmse_mm_per_hour,5.6327
+hits,41
+misses,25
+false_alarms,164
+correct_negatives,430
